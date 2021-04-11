@@ -1,0 +1,15 @@
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#097968 0%, #00d4ff 15%, #01b8ec 28%, #0299d8 36%, #0187e2 43%, #0473bf 52%, #0367c7 60%, #023564 92%, #0c0683 100%);
+}
+
+#heading {
+    font-size: 100px;
+}
